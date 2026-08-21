@@ -1,5 +1,5 @@
 /* Doodle Kingdom service worker — precache the whole app for offline use */
-const CACHE = "doodle-kingdom-20260821-142111";
+const CACHE = "doodle-kingdom-20260821-210143";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest"];
 
 self.addEventListener("install", e => {
